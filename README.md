@@ -7,7 +7,7 @@ This is my solution to the Social Links Profile challenge on Frontend Mentor. Th
 ### 🔗 Links
 
 * Solution URL: https://github.com/ali-mohsin12/Social-Links-Profile.git
-* Live Site URL: https://your-live-site-link
+* Live Site URL: https://ali-mohsin12.github.io/Social-Links-Profile/
 
 📷 Screenshot
 ![Project Screenshot](<Screenshot.png>)
